@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">myGuide</string>
+    <string name="shopping">Shopping</string>
+    <string name="home">Home</string>
+    <string name="products">Products detection</string>
+    <string name="guide">Guide Me</string>
+    <string name="welcomeLogin">Welcome to your app</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="money">Money detection</string>
+</resources>

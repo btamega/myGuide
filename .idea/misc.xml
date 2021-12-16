@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Public/MobileApps/iSee/app/src/main/res/drawable/btnlogin.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Public/MobileApps/iSee/app/src/main/res/drawable/circle.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Public/MobileApps/iSee/app/src/main/res/drawable/guide.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Public/MobileApps/iSee/app/src/main/res/drawable/guidecircle.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Public/MobileApps/iSee/app/src/main/res/drawable/home.xml" value="0.878125" />
+        <entry key="..\:/Users/Public/MobileApps/iSee/app/src/main/res/drawable/login.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Public/MobileApps/iSee/app/src/main/res/drawable/money.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/Public/MobileApps/iSee/app/src/main/res/drawable/products.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Public/MobileApps/iSee/app/src/main/res/drawable/secondcircle.xml" value="0.878125" />
+        <entry key="..\:/Users/Public/MobileApps/iSee/app/src/main/res/drawable/shopping.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Public/MobileApps/iSee/app/src/main/res/font/police.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/Public/MobileApps/iSee/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Public/MobileApps/iSee/app/src/main/res/layout/activity_main_guide_me.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Public/MobileApps/iSee/app/src/main/res/layout/activity_main_login.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Public/MobileApps/iSee/app/src/main/res/layout/activity_main_money.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Public/MobileApps/iSee/app/src/main/res/layout/activity_main_products.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Public/MobileApps/iSee/app/src/main/res/layout/activity_main_shopping.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Public/MobileApps/iSee/app/src/main/res/xml/money.xml" value="0.13020833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
