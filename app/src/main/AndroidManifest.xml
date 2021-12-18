@@ -10,9 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light">
         <activity
-            android:name=".MainActivityMoney"
-            android:parentActivityName=".MainActivity"
+            android:name=".MainActivityHistorique"
             android:exported="false" />
+        <activity
+            android:name=".MainActivityMoney"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".MainActivityLogin"
             android:exported="false"
